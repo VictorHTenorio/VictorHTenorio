@@ -1,7 +1,11 @@
 
 # Hi! I'm Victor Hora 🫡
 
-🌱 I'm currently graduating in Computer Science.
+<ul>
+  <li>🌱 I'm currently graduating in Computer Science.</li>
+  <li>🤔 I’m interested in studyng react native</li>
+  <li> I seek to learn more and more about web and software developer</li>
+</ul>
 
 ## Find me elsewhere 🌎
 
