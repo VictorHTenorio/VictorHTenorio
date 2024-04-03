@@ -3,7 +3,7 @@
 
 <ul>
  <li>🌱 I'm currently graduating in Computer Science.</li>
- <li>🤔 I’m interested in studying React Native and full stack development.</li>
+ <li>🤔 I’m interested in studying full stack development.</li>
  <li>📚 I seek to learn more and more about web and software development.</li>
 </ul>
 
